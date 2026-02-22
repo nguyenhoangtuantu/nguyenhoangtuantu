@@ -11,7 +11,6 @@ Building cool stuff with Python • AI • Full-stack | Open source lover from Q
 
 ## ⭐ Featured Projects
 
-
 ## 🌐 Connect with Me
 
 - [![](https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tuan_tu9999)
