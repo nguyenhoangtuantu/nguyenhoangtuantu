@@ -25,8 +25,8 @@ Building cool stuff with Python • AI • Full-stack | Open source lover from Q
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhoangtuantu&layout=compact&theme=radical)
 
-## 🐍 Contribution Snake Game
-
-![Snake animation light](https://github.com/nguyenhoangtuantu/nguyenhoangtuantu/blob/output/github-contribution-grid-snake.svg)
-
-![Snake animation dark](https://github.com/nguyenhoangtuantu/nguyenhoangtuantu/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenhoangtuantu/nguyenhoangtuantu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenhoangtuantu/nguyenhoangtuantu/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nguyenhoangtuantu/nguyenhoangtuantu/output/github-contribution-grid-snake.svg">
+</picture>
