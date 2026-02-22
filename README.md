@@ -26,9 +26,8 @@ Ví dụ: Building cool stuff with Python • AI • Full-stack | Open source lo
 
 ## 📊 GitHub Stats (tuỳ chọn, rất đẹp)
 
-Bạn có thể chèn các badge động này (copy-paste luôn):
+## 🐍 Contribution Snake Game
 
-```markdown
-<image-card alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" ></image-card>
+![Snake animation light](https://github.com/nguyenhoangtuantu/nguyenhoangtuantu/blob/output/github-contribution-grid-snake.svg)
 
-<image-card alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" ></image-card>
+![Snake animation dark](https://github.com/nguyenhoangtuantu/nguyenhoangtuantu/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
