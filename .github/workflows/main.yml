@@ -1,10 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  # Chạy mỗi ngày lúc 5h sáng (UTC) hoặc khi push lên main
   schedule:
-    - cron: "0 5 * * *"
-  workflow_dispatch:
+    - cron: "0 5 * * *" # 5 AM UTC daily
+  workflow_dispatch: # Cho phép chạy manual
 
 jobs:
   generate:
@@ -15,7 +14,7 @@ jobs:
       - name: Generate GitHub Contribution Grid Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: nguyenhoangtuantu
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
