@@ -1,7 +1,4 @@
-# 🤠 Hi, I'm [NGUYEN HOANG TUAN TU]!
-
-[Mô tả ngắn về bản thân / đam mê / đang làm gì]  
-Ví dụ: Building cool stuff with Python • AI • Full-stack | Open source lover
+# 🤠 Hi, I'm Nguyen Hoang Tuan Tu!
 
 ## 🧠 About Me
 
@@ -12,22 +9,16 @@ Ví dụ: Building cool stuff with Python • AI • Full-stack | Open source lo
 
 ## ⭐ Featured Projects
 
-- **ProjectName1** — [Mô tả ngắn gọn, rất ấn tượng]. [GitHub](link-repo)
-- **ProjectName2** — AI-powered something something — **Won XYZ Award**. [GitHub](link-repo)
-- **ProjectName3** — RAG-based chatbot using Llama3 + ChromaDB. [GitHub](link-repo)
-- **ProjectName4** — (Ongoing) Research on ... [GitHub](link-repo)
 
 ## 🌐 Connect with Me
 
-- [![](https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/username)
-- [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+- [![](https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tuan_tu9999)
+- [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-hoang-tuan-tu-undefined-21374a3a0/)
 - ✉️ Email: tuantu999ll@gmail.com
 - 🌍 [Portfolio / Personal site](https://yourwebsite.com)
 
-## 📊 GitHub Stats (tuỳ chọn, rất đẹp)
+## 📊 GitHub Stats
 
-## 🐍 Contribution Snake Game
+<image-card alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nguyenhoangtuantu&show_icons=true&theme=radical" ></image-card>
 
-![Snake animation light](https://github.com/nguyenhoangtuantu/nguyenhoangtuantu/blob/output/github-contribution-grid-snake.svg)
-
-![Snake animation dark](https://github.com/nguyenhoangtuantu/nguyenhoangtuantu/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+<image-card alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhoangtuantu&layout=compact&theme=radical" ></image-card>
