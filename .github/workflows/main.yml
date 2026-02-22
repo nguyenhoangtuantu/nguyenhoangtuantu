@@ -5,9 +5,13 @@ on:
     - cron: "0 5 * * *" # 5 AM UTC daily
   workflow_dispatch: # Cho phép chạy manual
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
