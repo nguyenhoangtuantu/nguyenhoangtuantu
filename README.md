@@ -1,10 +1,12 @@
-# 🤠 Hi, I'm Nguyen Hoang Tuan Tu!
+# 🤠 Hi, I'm NGUYEN HOANG TUAN TU!
+
+Building cool stuff with Python • AI • Full-stack | Open source lover from Quang Binh, VN
 
 ## 🧠 About Me
 
 - 🛠️ Top skills: Python, FastAPI, Machine Learning, Docker
 - 🌱 Passionate about creating accessible & impactful tech
-- 📚 Currently learning: LLM agents / Rust / whatever you're learning
+- 📚 Currently learning: LLM agents / Rust
 - 🤝 Always open to collaboration! Feel free to reach out~
 
 ## ⭐ Featured Projects
@@ -15,10 +17,16 @@
 - [![](https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tuan_tu9999)
 - [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-hoang-tuan-tu-undefined-21374a3a0/)
 - ✉️ Email: tuantu999ll@gmail.com
-- 🌍 [Portfolio / Personal site](https://yourwebsite.com)
+- 🌍 [Portfolio](https://nguyenhoangtuantu.github.io)
 
 ## 📊 GitHub Stats
 
-<image-card alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nguyenhoangtuantu&show_icons=true&theme=radical" ></image-card>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhoangtuantu&show_icons=true&theme=radical)
 
-<image-card alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhoangtuantu&layout=compact&theme=radical" ></image-card>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhoangtuantu&layout=compact&theme=radical)
+
+## 🐍 Contribution Snake Game
+
+![Snake animation light](https://github.com/nguyenhoangtuantu/nguyenhoangtuantu/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation dark](https://github.com/nguyenhoangtuantu/nguyenhoangtuantu/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
