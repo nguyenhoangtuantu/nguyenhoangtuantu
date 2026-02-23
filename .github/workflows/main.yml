@@ -1,30 +1,27 @@
-name: Generate Snake Animation
+name: Generate Pac-Man Game
 
 on:
   schedule:
-    - cron: "0 5 * * *" # 5 AM UTC daily
-  workflow_dispatch: # Cho phép chạy manual
-
-permissions:
-  contents: write
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate GitHub Contribution Grid Snake Animation
-        uses: Platane/snk@v3
+      - name: Generate Pac-Man SVG
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user_name: nguyenhoangtuantu
 
-      - name: Push changes
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist

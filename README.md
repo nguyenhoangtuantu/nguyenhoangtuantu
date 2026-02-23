@@ -20,12 +20,8 @@ Building cool stuff with Python • AI • Full-stack | Open source lover from Q
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhoangtuantu&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhoangtuantu&layout=compact&theme=radical)
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenhoangtuantu/nguyenhoangtuantu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenhoangtuantu/nguyenhoangtuantu/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nguyenhoangtuantu/nguyenhoangtuantu/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenhoangtuantu/nguyenhoangtuantu/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenhoangtuantu/nguyenhoangtuantu/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating contributions" src="https://raw.githubusercontent.com/nguyenhoangtuantu/nguyenhoangtuantu/output/pacman-contribution-graph.svg">
 </picture>
