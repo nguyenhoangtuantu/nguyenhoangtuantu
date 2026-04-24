@@ -4,10 +4,10 @@ Building cool stuff with Python • AI • Full-stack | Open source lover from Q
 
 ## 🧠 About Me
 
-- 🛠️ Top skills: Python, FastAPI, Machine Learning, Docker
-- 🌱 Passionate about creating accessible & impactful tech
-- 📚 Currently learning: LLM agents / Rust
-- 🤝 Always open to collaboration! Feel free to reach out~
+- 🔥 Languages: JavaScript, TypeScript, C++, Java.
+- 🛠️ Front-end: React, Next.js (App Router), Tailwind CSS, HTML/CSS.
+- ⚒️ Back-end: Node.js, Express, NestJS.
+- 🪛 Tools & Environment: Git, Linux (Ubuntu).
 
 ## ⭐ Featured Projects
 
