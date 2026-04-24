@@ -7,7 +7,8 @@ Building cool stuff with Python • AI • Full-stack | Open source lover from Q
 - 🔥 Languages: JavaScript, TypeScript, C++, Java.
 - 🛠️ Front-end: React, Next.js (App Router), Tailwind CSS, HTML/CSS.
 - ⚒️ Back-end: Node.js, Express, NestJS.
-- 🪛 Tools & Environment: Git, Linux (Ubuntu).
+- 📈 Database: MySQL, PostgreSQL.
+- 🪛 Tools & Environment: Git, Linux, Postman, Docker.
 
 ## ⭐ Featured Projects
 
